@@ -1,0 +1,4 @@
+*.txt
+*-lock.json
+node_modules
+config
